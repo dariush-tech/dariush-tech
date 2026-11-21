@@ -8,7 +8,7 @@
   <a href="https://dariush-tech.github.io/hesabyar-showcase/"><img src="https://img.shields.io/badge/live-Hesabyar-15803d?style=flat-square" alt="live: Hesabyar"></a>
   <a href="https://dariush-tech.github.io/anfas-interiors/"><img src="https://img.shields.io/badge/live-ANFAS%20Interiors-2FD5B5?style=flat-square" alt="live: ANFAS Interiors"></a>
   <a href="https://dariush-tech.github.io/anfas-villa/"><img src="https://img.shields.io/badge/live-ANFAS%20Villa-5B8CFF?style=flat-square" alt="live: ANFAS Villa"></a>
-  <a href="#client-demos"><img src="https://img.shields.io/badge/client%20demos-8%20live-5a6a2c?style=flat-square" alt="8 live client demos"></a>
+  <a href="#client-demos"><img src="https://img.shields.io/badge/client%20demos-9%20live-5a6a2c?style=flat-square" alt="9 live client demos"></a>
 </p>
 
 ---
@@ -83,12 +83,21 @@ that runs as a static page on GitHub Pages, with sample data kept in the visitor
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/dariush-tech/soroush-javid-course-compare"><img src="https://raw.githubusercontent.com/dariush-tech/soroush-javid-course-compare/main/docs/preview.jpg" alt="Vocational course comparison demo preview"></a>
+      <h4><a href="https://github.com/dariush-tech/soroush-javid-course-compare">Vocational course comparison</a></h4>
+      Pick a goal and experience level, see suggested courses with a reason, compare two side by side and copy a summary for the counselor.
+      <br><br>
+      <a href="https://dariush-tech.github.io/soroush-javid-course-compare/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/soroush-javid-course-compare">Code</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/dariush-tech/server-center-config-demo"><img src="https://raw.githubusercontent.com/dariush-tech/server-center-config-demo/main/docs/preview.jpg" alt="Server configurator demo preview"></a>
       <h4><a href="https://github.com/dariush-tech/server-center-config-demo">HPE ProLiant RAM &amp; disk configurator</a></h4>
       Pick a server and use case, choose RAM and disks with live totals and three-state compatibility, fix what doesn't fit and prepare an inquiry sheet.
       <br><br>
       <a href="https://dariush-tech.github.io/server-center-config-demo/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/server-center-config-demo">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dariush-tech/renovation-clinic-demo"><img src="https://raw.githubusercontent.com/dariush-tech/renovation-clinic-demo/main/docs/preview.jpg" alt="Renovation consultation demo preview"></a>
       <h4><a href="https://github.com/dariush-tech/renovation-clinic-demo">Renovation consultation requests</a></h4>
@@ -96,8 +105,6 @@ that runs as a static page on GitHub Pages, with sample data kept in the visitor
       <br><br>
       <a href="https://dariush-tech.github.io/renovation-clinic-demo/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/renovation-clinic-demo">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dariush-tech/pooya-andish-path-demo"><img src="https://raw.githubusercontent.com/dariush-tech/pooya-andish-path-demo/main/docs/preview.jpg" alt="Art school learning path demo preview"></a>
       <h4><a href="https://github.com/dariush-tech/pooya-andish-path-demo">Art school learning path</a></h4>
@@ -105,6 +112,8 @@ that runs as a static page on GitHub Pages, with sample data kept in the visitor
       <br><br>
       <a href="https://dariush-tech.github.io/pooya-andish-path-demo/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/pooya-andish-path-demo">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dariush-tech/raily-wholesale-catalog-demo"><img src="https://raw.githubusercontent.com/dariush-tech/raily-wholesale-catalog-demo/main/docs/preview.jpg" alt="Wholesale catalog demo preview"></a>
       <h4><a href="https://github.com/dariush-tech/raily-wholesale-catalog-demo">Wholesale clothing catalog</a></h4>
@@ -112,8 +121,6 @@ that runs as a static page on GitHub Pages, with sample data kept in the visitor
       <br><br>
       <a href="https://dariush-tech.github.io/raily-wholesale-catalog-demo/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/raily-wholesale-catalog-demo">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dariush-tech/helger-consult-demo"><img src="https://raw.githubusercontent.com/dariush-tech/helger-consult-demo/main/docs/preview.jpg" alt="Interior design consultation demo preview"></a>
       <h4><a href="https://github.com/dariush-tech/helger-consult-demo">Interior design consultation</a></h4>
@@ -121,6 +128,8 @@ that runs as a static page on GitHub Pages, with sample data kept in the visitor
       <br><br>
       <a href="https://dariush-tech.github.io/helger-consult-demo/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/helger-consult-demo">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dariush-tech/mft-course-applicants-demo"><img src="https://raw.githubusercontent.com/dariush-tech/mft-course-applicants-demo/main/docs/preview.jpg" alt="Course applicant tracking demo preview"></a>
       <h4><a href="https://github.com/dariush-tech/mft-course-applicants-demo">Course applicant tracking</a></h4>
@@ -128,8 +137,6 @@ that runs as a static page on GitHub Pages, with sample data kept in the visitor
       <br><br>
       <a href="https://dariush-tech.github.io/mft-course-applicants-demo/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/mft-course-applicants-demo">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dariush-tech/anil-appointment-demo"><img src="https://raw.githubusercontent.com/dariush-tech/anil-appointment-demo/main/docs/preview.jpg" alt="Clinic appointment demo preview"></a>
       <h4><a href="https://github.com/dariush-tech/anil-appointment-demo">Clinic appointment follow-up</a></h4>
@@ -137,6 +144,8 @@ that runs as a static page on GitHub Pages, with sample data kept in the visitor
       <br><br>
       <a href="https://dariush-tech.github.io/anil-appointment-demo/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/anil-appointment-demo">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dariush-tech/abfam-inquiry-demo"><img src="https://raw.githubusercontent.com/dariush-tech/abfam-inquiry-demo/main/docs/preview.jpg" alt="Industrial equipment inquiry demo preview"></a>
       <h4><a href="https://github.com/dariush-tech/abfam-inquiry-demo">Industrial equipment inquiries</a></h4>
@@ -144,9 +153,7 @@ that runs as a static page on GitHub Pages, with sample data kept in the visitor
       <br><br>
       <a href="https://dariush-tech.github.io/abfam-inquiry-demo/"><b>Live demo</b></a> · <a href="https://github.com/dariush-tech/abfam-inquiry-demo">Code</a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h4>How the demos are built</h4>
       <ul>
         <li>Static files on GitHub Pages: no build step, server, account or API key</li>
